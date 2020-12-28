@@ -9,3 +9,19 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day 1: December 26, 2020
+
+**Progress:** Learnt about Python functions, if-else-elif structure
+
+### Day 2: December 27, 2020
+
+**Progress:** Learnt about Loops and classes
+
+### Day 3: December 28, 2020
+
+**Progress:** Learnt about classes, datetime and made a small calendar application following tutorial on LinkedIn Learning
+
+### Day 4: December 29, 2020
+
+**Progress:**
